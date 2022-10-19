@@ -19,6 +19,6 @@ Aplicação que permite visualizar todos os planetas do nosso Sistema Solar e ca
 - importação e renderização de componentes (únicos ou a partir de um array)
 - uso e validação de props
 
-[![](https://img.shields.io/badge/Visualização-F7630C?style=for-the-badge&logoColor=white)](https://marianaapereira.github.io/project-solar-system/)
+[![](https://img.shields.io/badge/Visualização-30363D?style=for-the-badge&logoColor=white)](https://marianaapereira.github.io/project-solar-system/)
 
 #### Projeto entregue em 18/08/22
