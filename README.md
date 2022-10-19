@@ -1,4 +1,3 @@
-# :construction: README em construção ! :construction:
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto.
 É essencial que você preencha esse documento por conta própria, ok?
@@ -8,3 +7,16 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 - quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
 - quais arquivos/pastas foram desenvolvidos pela Trybe.
 -->
+
+# Solar System 🪐
+
+Aplicação que permite visualizar todos os planetas do nosso Sistema Solar e cards com informações sobre missões espaciais.
+
+### Habilidades utilizadas no projeto:
+
+- uso de JSX no React
+- criação de componentes de classe em React
+- importação e renderização de componentes (únicos ou a partir de um array)
+- uso e validação de props
+
+#### Projeto entregue em 18/08/22
